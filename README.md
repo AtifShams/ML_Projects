@@ -11,7 +11,6 @@ This project helped me understand the complete machine learning workflow includi
 - Model evaluation
 - Coefficient interpretation
 
---
 
 ## Dataset
 Dataset used in this project:
